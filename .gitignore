@@ -5,3 +5,5 @@ out
 website/
 docs-minimind/
 archify_diagrams/
+.vscode/
+.claude/
